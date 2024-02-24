@@ -67,7 +67,7 @@ sections:
           company_url: 'https://www.microsoft.com/en-us/research/group/machine-learning-research-group/'
           company_logo: microsoft
           location: Beijing
-          date_start: '2023-11'
+          date_start: '2023-11-20'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -80,8 +80,8 @@ sections:
           company_url: ''
           company_logo: tsinghua
           location: Beijing
-          date_start: '2021-06'
-          date_end: '2023-04'
+          date_start: '2021-06-20'
+          date_end: '2023-04-10'
           description: 1) Investigate the decision rules of transformer-based AI judgers by feature attribution and find that they make legal judgment predictions according to irrelevant information in the given case descriptions. 2) Causally analyze the AI judgers’ nature and argue that the lack of human knowledge, the imbalance of training data, and the incomprehensiveness of testing methods impede them from learning causal relationships. 3) Propose two methods to infuse knowledge into data and model’s architecture, respectively. 4) Further propose 8 kinds of legal-specific attacks to complete the testing methods. 5) Experimentally demonstrate that knowledge improves models’ robustness and performance.
     design:
       columns: '2'
