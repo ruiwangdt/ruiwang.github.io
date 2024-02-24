@@ -40,7 +40,7 @@ education:
     - course: PhD in Data Science
       institution: Fudan University
       year: 2024
-    - course: BSc in Marine Technology
+    - course: BEng in Marine Technology
       institution: Dalian University of Technology
       year: 2018
     # - course: BSc in Artificial Intelligence
