@@ -47,7 +47,7 @@ featured: False
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.acl-long.354/
 
-# url_pdf: 'https://aclanthology.org/2023.acl-long.354.pdf'
+url_pdf: ''
 url_code: 'https://github.com/Hytn/AspectSum'
 # url_dataset: 'https://github.com/Hytn/DocRED-HWE'
 # url_poster: ''

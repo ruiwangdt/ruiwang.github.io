@@ -27,7 +27,7 @@ publishDate: '2024-02-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: International World Wide Web Conference
 publication_short: WWW 2024
 
 abstract: Relation extraction (RE) methods have achieved striking performance when training and test data are independently and identically distributed (i.i.d). However, in real-world scenarios where RE models are trained to acquire knowledge in the wild, the assumption can hardly be satisfied due to the different and unknown testing distributions. In this paper, we serve as the first effort to study out-of-distribution (OOD) problems in RE by constructing an out-of-distribution relation extraction benchmark (OODREB) and then investigating the abilities of state-of-the-art (SOTA) RE methods on OODREB in both i.i.d. and OOD settings. Our proposed benchmark and analysis reveal new findings and insights - (1) Existing SOTA RE methods struggle to achieve satisfying performance on OODREB in both i.i.d. and OOD settings due to the complex training data and biased model selection method. Rethinking the developing protocols of RE methods is of great urgency. (2) The SOTA RE methods fail to learn causality due to the diverse linguistic expressions of causal information. The failure limits their robustness and generalization ability; (3) Current RE methods based on language models are far away from being deployed in real-world applications. We appeal to future work to take the OOD generalization and causality learning ability into consideration.
@@ -45,7 +45,7 @@ featured: False
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.acl-long.354/
 
-# url_pdf: 'https://aclanthology.org/2023.acl-long.354.pdf'
+url_pdf: ''
 url_code: 'https://github.com/Hytn/OODREB'
 # url_dataset: 'https://github.com/Hytn/DocRED-HWE'
 # url_poster: ''
