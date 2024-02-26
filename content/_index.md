@@ -198,7 +198,7 @@ sections:
   #     columns: '1'
   - block: collection
     id: featured
-  #   content:
+    content:
   #     title: Featured Publications
   #     filters:
   #       folders:
