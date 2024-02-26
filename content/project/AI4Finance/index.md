@@ -9,7 +9,7 @@ date: '2023-11-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The Illustration of the Project
   focal_point: Smart
 
 # links:
