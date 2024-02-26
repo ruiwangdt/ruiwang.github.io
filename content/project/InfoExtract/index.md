@@ -10,7 +10,7 @@ date: "2018-09-27T00:00:00Z"
 external_link: ''
 
 image:
-  caption: The Overview of the Project
+  caption: The Research Plan of the Project Drafted by Haotian Chen
   focal_point: Smart
 ---
 

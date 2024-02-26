@@ -9,7 +9,7 @@ date: '2023-11-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: The Illustration of the Project
+  caption: The Research Plan of the Project Drafted by Haotian Chen
   focal_point: Smart
 
 # links:
