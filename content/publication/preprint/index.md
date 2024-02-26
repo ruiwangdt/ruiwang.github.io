@@ -2,11 +2,11 @@
 title: "RD2Bench: Toward Data-Centric Automatic R&D"
 authors:
 - admin
-date: "2024-03-01T00:00:00Z"
+date: "2024-02-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-10T00:00:00Z"
+publishDate: "2024-02-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: RD2Bench.pdf
+url_pdf: RD2Bench.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
