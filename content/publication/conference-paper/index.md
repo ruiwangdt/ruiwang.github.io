@@ -14,11 +14,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-05-01T00:00:00Z'
 doi: '10.18653/v1/2023.acl-long.354'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-09-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -37,12 +37,12 @@ abstract: Document-level relation extraction (DocRE) attracts more research inte
 tags: []
 
 # Display this page in the Featured widget?
-featured: True
+featured: False
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Custom Link
+  url: https://aclanthology.org/2023.acl-long.354/
 
 url_pdf: 'https://aclanthology.org/2023.acl-long.354.pdf'
 url_code: 'https://github.com/Hytn/DocRED-HWE'
