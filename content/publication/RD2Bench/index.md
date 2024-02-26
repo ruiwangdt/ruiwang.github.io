@@ -2,6 +2,12 @@
 title: "RD2Bench: Toward Data-Centric Automatic R&D"
 authors:
 - admin
+- Xinjie Shen
+- Zeqi Ye
+- Xiao Yang
+- Xu Yang
+- Weiqing Liu
+- Jiang Bian
 date: "2024-02-10T00:00:00Z"
 doi: ""
 
@@ -29,7 +35,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: RD2Bench.pdf
+url_pdf: content/publication/RD2Bench/RD2Bench.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
