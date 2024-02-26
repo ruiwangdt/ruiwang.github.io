@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 陈颢天
+title: Haotian Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Haotian Chen
+name_pronunciation: 陈颢天
 
 # Full name (for SEO)
 first_name: Haotian
