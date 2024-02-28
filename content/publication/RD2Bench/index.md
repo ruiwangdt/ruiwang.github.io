@@ -8,6 +8,12 @@ authors:
 - Xu Yang
 - Weiqing Liu
 - Jiang Bian
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 date: "2024-02-10T00:00:00Z"
 doi: ""
 
