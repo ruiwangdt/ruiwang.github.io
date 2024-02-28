@@ -125,5 +125,6 @@ social:
 highlight_name: true
 ---
 
-My research goal is to make AI systems to be trustworthy, robust, align with human values, and perform well in real-world applications (e.g., social goods, self-driving, healthcare, human-AI interaction, etc.). My research experience focuses on analyzing the decision rules (understanding ability) of models in legal judgment prediction (LJP) and relation extraction (RE) and improving their performance, robustness, and generalization ability in text generation, time series, LJP, and RE.
+My research goal is to understand and develop AI for automating routine, mechanical, and repetitive tasks that are necessary but do not require creative thinking. The aim is to alleviate the burden on humans and revolutionize human productivity. My research experience focuses on automating the Real-World Data-Driven Research and Development (R&D) cycle, analyzing and correcting the decision rules of deep models in their downstream NLP tasks such as legal judgment prediction (LJP) and relation extraction (RE), and improving the performance, robustness, and out-of-distribution generalization ability of deep models in the NLP tasks.
+
 {style="text-align: justify;"}
