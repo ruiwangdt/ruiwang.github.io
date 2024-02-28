@@ -1,6 +1,6 @@
 ---
 title: AI for Finance
-summary: A project of using LLM to facilitate or automate quantitative finance. I'm responsible for empowering LLM to automatically implement various factors.
+summary: A project of using LLM to facilitate or automate quantitative finance. The project's research value is to automate the whole research and development (R&D) cycle. I'm responsible for empowering LLM to automatically implement various factors in engineering, and I also design the overall research plan and conduct the ground-breaking research. Details are shown in the hyperlink of the project's name. 
 tags:
   - LLM
 date: '2023-11-27T00:00:00Z'
