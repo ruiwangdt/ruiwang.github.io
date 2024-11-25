@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Haotian Chen
+title: Rui Wang
 
 # Name pronunciation (optional)
-# name_pronunciation: 陈颢天
+# name_pronunciation: 王锐
 
 # Full name (for SEO)
-first_name: Haotian
-last_name: Chen
+first_name: Rui
+last_name: Wang
 
 # Status emoji
 # status:
@@ -17,31 +17,31 @@ last_name: Chen
 superuser: true
 
 # Role/position/tagline
-role: Researcher in Artificial Intelligence
+role: Postdoc # Researcher in Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Fudan University
+  - name: Tsinghua University
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include automatic machine learning, trustworthy AI, information extraction.
+bio: My research interests include efficient learning, AI4Science, wireless communication.
 
 # Interests to show in About widget
 interests:
-  - Large Language Model Agent
-  - Computational Linguistics
-  - Information Extraction
-  - Trustworthy or Explainable Artificial Intelligence
+  - AI for Science
+  - Efficient Learning
+  - Wireless Communication
+  - Network Optimization
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Data Science
+    - course: PhD
       institution: Fudan University
       year: 2024
-    - course: BEng in Ocean Technology
-      institution: Dalian University of Technology
+    - course: BEng
+      institution: Northeastern University
       year: 2018
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
@@ -107,7 +107,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Hytn
+    link: https://github.com/ruiwangdt
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -116,7 +116,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Rui_Wang.pdf
   # - icon: research statement
   #   icon_pack: ai
   #   link: uploads/research_statement.pdf
@@ -125,6 +125,6 @@ social:
 highlight_name: true
 ---
 
-My research goal is to understand and develop AI for automating the tasks (e.g., engineering, research, development, etc.) that require extensive time, effort, and sometimes even the creative thinking of humans. I work on automating the data-driven scientific research for contributing to both alleviating the burden on humans and revolutionizing human productivity. My research experience focuses on automating the Real-World Data-Driven Research and Development (R&D) cycle in the financial domain, analyzing and correcting the decision rules of deep models (e.g., language models) in their real-world applications such as legal judgment prediction (LJP) and knowledge extraction (e.g., relation extraction), and improving the performance, robustness, and out-of-distribution generalization ability of deep models in these applications.
+My research objectives focus on leveraging mathematical methodologies to synergistically integrate advanced artificial intelligence (AI) techniques with wireless communication technologies, driving innovation across these fields and enhancing their applications in healthcare. Additionally, I am deeply intrigued by how intelligence emerges in neuroscience and how states of consciousness are represented in the brain. Therefore, I aspire to develop comprehensive models that elucidate the signal transmission mechanisms within the human neural network, seeking to bridge computational models with neural representations of intelligence.
 
 {style="text-align: justify;"}
