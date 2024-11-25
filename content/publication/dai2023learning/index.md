@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications
-publication_short: IEEE SPAWC
+# publication_short: IEEE SPAWC
 
 abstract: In this paper, we present a novel method of downlink precoding for cell-free massive multiple-input multiple-output (MIMO) systems using over-the-air (OTA) training. By drawing analogies between a cell-free massive MIMO system and an artificial neural network (ANN), we borrow the idea of back-propagation algorithm to optimize the precoders and combiners via OTA signal exchanges, without incurring channel state information (CSI) estimation or CSI aggregation over some backhaul lines. Numerical simulations show that our method outperforms the state-of-the-art methods in average sum-rate, is robust against pilot contamination, and has lower computational complexity.
 
