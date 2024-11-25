@@ -10,7 +10,7 @@ tags:
 external_link: ''
 
 image:
-  caption: The RelayNet Drafted by Haotian Chen
+  caption: The RelayNet Drafted by Rui Wang
   focal_point: Smart
 ---
 
