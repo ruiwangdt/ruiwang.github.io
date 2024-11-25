@@ -10,7 +10,7 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: mortarboard.png
+        filename: mortarboard
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
