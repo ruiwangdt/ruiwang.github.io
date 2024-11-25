@@ -63,10 +63,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Student
+        - title: Research Intern
           company: Westlake University - AI for Scientific Simulation and Discovery Lab
           company_url: 'https://ai4s.lab.westlake.edu.cn/'
           company_logo: Westlake
+          advisor_name: Tailin Wu
+          advisor_url: 'https://ai4s.lab.westlake.edu.cn/'
           location: Hangzhou
           date_start: '2023-12-01'
           date_end: '2024-07-30'
@@ -79,7 +81,7 @@ sections:
               - Researched, implemented, and validated baseline models, including FNO, CNO, OFormer, LNPDE, etc.
         - title: Visiting Scholar
           company: Tsinghua University - Institute for Interdisciplinary Information Sciences (IIIS)
-          company_url: 'http://people.iiis.tsinghua.edu.cn/~huang/index.html'
+          company_url: 'https://people.iiis.tsinghua.edu.cn/~dilab/index.html'
           company_logo: tsinghua
           location: Beijing
           date_start: '2024-08-01'
