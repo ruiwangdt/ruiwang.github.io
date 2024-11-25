@@ -65,7 +65,7 @@ sections:
         - title: Visiting Student
           company: Westlake University - AI for Scientific Simulation and Discovery Lab
           company_url: 'https://ai4s.lab.westlake.edu.cn/'
-          company_logo: microsoft
+          company_logo: Westlake
           location: Hangzhou
           date_start: '2023-12-01'
           date_end: '2024-07-30'
