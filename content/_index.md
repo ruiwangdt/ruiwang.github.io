@@ -62,34 +62,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Internship
-          company: Microsoft Research Asia - Machine Learning Group
-          company_url: 'https://www.microsoft.com/en-us/research/group/machine-learning-research-group/'
+        - title: Visiting Student
+          company: Westlake University - AI for Scientific Simulation and Discovery Lab
+          company_url: 'https://ai4s.lab.westlake.edu.cn/'
           company_logo: microsoft
-          location: Beijing
-          date_start: '2023-11-20'
-          date_end: ''
+          location: Hangzhou
+          date_start: '2023-12-01'
+          date_end: '2024-07-30'
           description: |2-
-              Responsibilities include:
+               Research in AI4Science:
 
-              * Contribute to developing an open-source code framework aiming to apply LLM (e.g., GPT-4) agent to perform automatic research and development (R&D) in real-world scenarios. 
-              * Identify research questions through the implementation and then formalize questions and expose the bottleneck of current LLMs.
-              * Demonstrate the promising future of LLM-driven automatic R&D and propose the effective technical methods (knowledge-augmented evolving strategies).
-        - title: Research Assistant
-          company: Tsinghua University - Institute for Interdisciplinary Information Sciences
-          company_url: ''
+                - Developed advanced control methods for complex physical systems using generative models.
+                - Developed the Wavelet Diffusion Neural Operator, a novel framework for super-resolution control and prediction.
+                - Safe control strategies with provable probabilities.
+                - Researched, implemented, and validated baseline models, including FNO, CNO, OFormer, LNPDE, etc.
+        - title: Visiting Scholar
+          company: Tsinghua University - Institute for Interdisciplinary Information Sciences (IIIS)
+          company_url: 'http://people.iiis.tsinghua.edu.cn/~huang/index.html'
           company_logo: tsinghua
           location: Beijing
-          date_start: '2021-06-20'
-          date_end: '2023-04-10'
+          date_start: '2024-08-01'
+          date_end: '2024-11-20'
           description: |2-
-              Responsibilities include:
+              Research in Efficient Learining:
 
-              * Investigate the decision rules of transformer-based AI judgers by feature attribution and find that they make legal judgment predictions according to irrelevant information in the given case descriptions. 
-              * Causally analyze the AI judgers’ nature and argue that the lack of human knowledge, the imbalance of training data, and the incomprehensiveness of testing methods impede them from learning causal relationships. 
-              * Propose two methods to infuse knowledge into data and model’s architecture, respectively. 
-              * Further propose 8 kinds of legal-specific attacks to complete the testing methods. 
-              * Experimentally demonstrate that knowledge improves models’ robustness and performance.
+              * Investigated current progress in LoRA. 
+              * Proposed two methods to improve LoRA.
     design:
       columns: '2'
   # - block: accomplishments
@@ -178,10 +176,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: LLM
-          tag: LLM
-        - name: IE
-          tag: IE
+        - name: AI+Comm
+          tag: AI+Comm
+        - name: Wireless Comm
+          tag: Wireless Comm
+        - name: AI4Science
+          tag: AI4Science
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -244,8 +244,8 @@ sections:
       text: |-
         Please feel free to contact me if you have any questions.
       # Contact (add or remove contact options as necessary)
-      email: htchen18@fudan.edu.cn
-      phone: +86 180 1920 7701
+      email: ruiwang18@fudan.edu.cn
+      phone: +86 186 2111 3080
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall

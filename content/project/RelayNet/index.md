@@ -2,7 +2,7 @@
 title: Relay Net
 summary: I'm responsible for leading both the engineering and research components of the project, focusing on ...
 tags:
-  - QNN
+  - Wireless Comm
 # date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

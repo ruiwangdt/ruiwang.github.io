@@ -2,7 +2,7 @@
 title: AI for Communication
 summary: A project of using AI to facilitate wireless comm.... 
 tags:
-  - AI+Communication
+  - AI+Comm
 # date: '2023-11-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
