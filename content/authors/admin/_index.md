@@ -103,7 +103,7 @@ social:
   #   display:
   #     header: true
   - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: academicons
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=8VTaeFwAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
