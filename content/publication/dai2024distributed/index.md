@@ -30,7 +30,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Communications
-publication_short: IEEE TCOMM
+# publication_short: IEEE TCOMM
 
 abstract: This paper proposes a novel downlink precoding method for a cell-free massive multiple-input multiple-output (CF-mMIMO) network, requiring no channel state information sharing between the access points via fronthaul links. By drawing analogies between a CF-mMIMO network and an artificial neural network, the proposed algorithm borrows the idea of backpropagation to train the precoders and the combiners through over-the-air ping-pong signaling between the access points and user equipments. It utilizes manifolds optimization to meet the per-AP power constraint and is named as distributed quasi-neural network precoding on manifold (DQNPM). The DQNPM algorithm can accommodate a large category of objective functions for fully distributed implementation. Numerical simulations show that our method outperforms the state-of-the-art approaches, and is robust against pilot contamination.
 

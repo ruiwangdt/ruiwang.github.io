@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 2020 Information Theory and Applications Workshop
-publication_short: ITA Workshop
+# publication_short: ITA Workshop
 
 abstract: A relay node can be used to improve the distance and service quality of a communication link, but not when it is being interfered. In this paper, we consider a relay network consisting of one source, one destination, and multiple relay nodes, and draw analogy between the relay network and a three-layer artificial neural network (ANN). Inspired by the classic back-propagation (BP) algorithm for the ANN, we develop an interference-resilient algorithm that can optimize the beamforming-and-forwarding weights of the relay nodes so that the interferences will be canceled at the destination. The proposed algorithm requires no channel state information (CSI), no data exchanges between the relay nodes; it requires that the source transmit training sequences in the forward channel (source-to-relays) and the destination transmit error sequences in the backward channel (destination-to-relays). The simulation results verify the effectiveness of the proposed scheme in the interference environment.
 

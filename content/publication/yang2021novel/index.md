@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 2021 IEEE Global Communications Conference
-publication_short: IEEE GLOBECOM
+# publication_short: IEEE GLOBECOM
 
 abstract: The estimation of velocity, angle-of-arrival (AOA), and range of a target has been researched for decades, as it finds wide applications in radar and wireless communications. In recent years, this classic problem has gained renewed interest with the advent of 5G internet of things (IoT) technologies, owing to the numerous emerging localization-related applications. This paper studies the joint estimation of velocity, AOA, and range (JEVAR) of a target in a multipath environment. To solve the JEVAR problem, we propose a novel scheme, which has the target transmit a pair of conjugate Zadoff-Chu (ZC) sequences and has the multi-antenna receiver conduct maximum likelihood (ML) estimation. The simulations verify the effectiveness of the proposed scheme by showing that its performance can approach the Cramer-Rao bound (CRB).
 

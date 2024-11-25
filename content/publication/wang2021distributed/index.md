@@ -29,7 +29,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 2021 IEEE Global Communications Conference
-publication_short: IEEE GLOBECOM
+# publication_short: IEEE GLOBECOM
 
 abstract: This paper studies a distributed scheme for a multi-input multi-output (MIMO) relay network, where the transmit nodes are subject to the nonlinear instantaneous power constraints. We introduce a novel perspective of regarding a relay network as a so-termed quasi-neural network by drawing its striking analogies with a (four-layer) artificial neural network (ANN). We propose a nonlinear amplify-and-forward (NAF) scheme inspired by the back-propagation (BP) algorithm, namely the NAF-BP, to optimize the transceivers to maximize the output signal-to-interference-plus-noise ratio (SINR) of the data streams. The NAF-BP algorithm can be implemented in a distributed manner with no channel state information (CSI) and no data exchange between the relay nodes. The NAF-BP can also coordinate the distributed relay nodes to form a virtual array to suppress interferences from unknown directions. Extensive simulations verify the effectiveness of the proposed scheme.
 

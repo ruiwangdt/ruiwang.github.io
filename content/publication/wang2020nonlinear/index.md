@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 2020 54th Asilomar Conference on Signals, Systems, and Computers
-publication_short: Asilomar Conference on Signals, Systems, and Computers
+# publication_short: Asilomar Conference on Signals, Systems, and Computers
 
 abstract: This paper studies relay networks under interferences, and proposes a nonlinear amplify-and-forward (NAF) scheme for interference suppression. In contrast to the existing linear amplify-and-forward (AF) relay schemes, the proposed NAF scheme adopts hyperbolic signal amplitude compression for the instantaneous constraint on the transmit power of each antenna of the relay nodes. Noting the striking similarities between the relay network and a three-layer artificial neural network (ANN), we propose a NAF relay scheme inspired by the back-propagation algorithm (NAF-BP) to optimize the weights of the destination and the relay nodes, according to the minimum mean square error (MMSE) criterion. The NAF-BP scheme assumes no channel state information (CSI), no data exchange between the relay nodes, except for a backward channel from the destination to the relays. We also further develop a centralized benchmark algorithm for the NAF relay scheme using the sequential convex programming (SCP), which we refer to as the NAF-SCP. The effectiveness of the proposed scheme is verified through extensive simulations.
 

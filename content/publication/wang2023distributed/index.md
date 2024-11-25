@@ -29,7 +29,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Communications
-publication_short: IEEE TCOMM
+# publication_short: IEEE TCOMM
 
 abstract: Cell-free massive multiple-input multiple-output (MIMO) can resolve the inter-cell interference issue in cellular networks through cooperative beamforming of the distributed access points (APs). This paper focuses on an uplink cell-free massive MIMO network and investigates novel methods to train the central processing unit (CPU), the APs, and the users in the network. To reduce the communication burden posed on the fronthaul, each AP applies receive beamforming to compress the vector signals into scalar ones before passing them to the CPU for centralized processing. By drawing analogies between an uplink cell-free network and a quasi-neural network and borrowing the idea of backpropagation algorithm, we propose a novel scheme named the distributed learning for uplink cell-free massive MIMO beamforming (DLCB), which can achieve the multi-AP cooperation without explicit estimation of their channel state information (CSI). The DLCB has low computational complexity and is applicable to various objective functions, such as the minimum mean squared error criterion and the maximum sum rate criterion. Extensive simulations verify that the proposed scheme achieves superior performance over the state-of-the-art methods.
 

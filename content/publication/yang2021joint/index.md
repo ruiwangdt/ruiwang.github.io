@@ -30,7 +30,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Signal Processing
-publication_short: IEEE TSP
+# publication_short: IEEE TSP
 
 abstract: This paper studies the joint estimation of velocity, AOA, and range (JEVAR) of a target in a multipath environment, which has gain renewed interest with the advent of 5G Internet of Things (IoT) technologies, owing to the numerous emerging localization-related applications. To solve the JEVAR problem, we propose a novel scheme, wherein the target transmits a pair of conjugate Zadoff-Chu (ZC) sequences and the multi-antenna receiver conducts maximum likelihood (ML) estimation. The proposed scheme is computationally efficient it uses alternating projection (AP) to reduce the high-dimensional problem due to the multipaths to multiple lower-dimensional ones per path; it uses a conjugate pair of ZC sequences to decouple the joint estimation of the frequency and time offsets of each path into two separate estimates. The proposed scheme is highly versatile it can resolve the multipaths with super resolution in both spatial and temporal domain; it can measure the velocity of the target via estimating the frequency offsets of the line-of-sight (LOS) signal and its multipath reflections. The simulations verify the effectiveness of the proposed scheme by showing that its performance can approach the Cramer-Rao bound (CRB).
 

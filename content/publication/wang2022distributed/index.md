@@ -29,7 +29,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Journal of Selected Topics in Signal Processing
-publication_short: IEEE JSTSP
+# publication_short: IEEE JSTSP
 
 abstract: This paper studies a multi-antenna multi-user and multi-relay network, where the radio frequency (RF) power amplifiers (PA) of the nodes are subject to instantaneous power constraints. To optimize the nonlinear transceivers of the distributed nodes, we introduce a novel perspective of relating a relay network to an artificial neural network (ANN). With this perspective, we propose a distributed learning-based relay beamforming (DLRB) scheme. Based on a set of pilot sequences, the DLRB scheme can optimize the transceivers to minimize the mean squared error (MSE) of the data stream in a distributed manner. It can effectively coordinate the distributed relay nodes to form a virtual array to suppress interferences, even assuming neither the channel state information (CSI) nor information exchange between the relay nodes or between the users. We also present a frame design to support the DRLB so that it can adapt well with time-varying channels. Extensive simulations verify the effectiveness of the proposed scheme.
 

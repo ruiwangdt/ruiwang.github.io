@@ -33,7 +33,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: ICLR 2024 Workshop on AI4DifferentialEquations In Science
-publication_short: ICLR 2024 Workshop AI4DiffEqtnsInSci
+# publication_short: ICLR 2024 Workshop AI4DiffEqtnsInSci
 
 abstract: Controlling PDE is a fundamental task across science and engineering. Classical techniques for PDE control tend to be computationally demanding and recent deep learning-based approaches often struggle to optimize long-term control sequences. In this work, we introduce Diffusion generative PDE Control (DiffConPDE), a new class of method to address the PDE control problem. DiffConPDE excels by simultaneously minimizing both the learned generative energy function and the predefined control objectives across the entire trajectory and control sequence. Moreover, we enhance DiffConPDE with prior reweighting, enabling the discovery of control sequences that significantly deviate from the training distribution. We test our method in 2D jellyfish movement in a fluid environment and 1D Burgers' equation control. Our method consistently outperforms baselines. Notably, DiffConPDE unveils an intriguing fast-close-slow-open pattern observed in the jellyfish, aligning with established findings in the field of fluid dynamics.
 
